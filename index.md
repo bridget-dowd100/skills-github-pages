@@ -2,4 +2,6 @@
 title: Welcome to my blog!
 
 ---
-##testing
+This is the home page 
+#this is the home page 
+##this is the home page
